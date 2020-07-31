@@ -17,6 +17,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [SQLite](https://www.sqlite.org/index.html)
 - [Nunjucks](https://mozilla.github.io/nunjucks/)
 
+##
 <p align="center">
   <img alt="Ecoleta" src="https://user-images.githubusercontent.com/60319097/89062580-165ed180-d33d-11ea-8984-36c49e031b89.png" width="100%">
 </p>
